@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Righteous&display=swap');
+
+body {
+  background-color: black;
+  font-family: 'Righteous', cursive;
+  color:pink;
+  font-size: 70px;
+
+}
+
+#button{
+  font-family: 'Righteous', cursive;
+  border-radius: 24px;
+  font-size: 40px;
+}
+
+#userinput{
+  font-family: 'Righteous', cursive;
+  border-radius: 24px;
+  font-size: 40px;
+}
+
+#output{
+  font-family: 'Righteous', cursive;
+  font-size: 30px;
+}
